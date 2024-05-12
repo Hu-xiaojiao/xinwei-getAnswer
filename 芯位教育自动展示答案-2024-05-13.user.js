@@ -6,6 +6,7 @@
 // @author       Huxiaojiao233
 // @match        https://www.51xinwei.com/student/
 // @icon         https://www.51xinwei.com/student/logo.svg
+// @license MIT
 // @run-at       document-stop
 // @grant        unsafeWindow
 // ==/UserScript==
