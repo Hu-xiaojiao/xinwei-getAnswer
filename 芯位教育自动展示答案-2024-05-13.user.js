@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         芯位教育自动展示答案
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Hu-xiaojiao/xinwei-getAnswer
 // @version      2024-05-13
 // @description  这是一个能够自动获取芯位平台作业答案的脚本
-// @author       https://github.com/Hu-xiaojiao/xinwei-getAnswer
+// @author       Huxiaojiao233
 // @match        https://www.51xinwei.com/student/
 // @icon         https://www.51xinwei.com/student/logo.svg
 // @run-at       document-stop
