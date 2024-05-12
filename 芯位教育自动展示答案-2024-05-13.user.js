@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-05-13
 // @description  这是一个能够自动获取芯位平台作业答案的脚本
-// @author       Huxiaojiao233
+// @author       https://github.com/Hu-xiaojiao/xinwei-getAnswer
 // @match        https://www.51xinwei.com/student/
 // @icon         https://www.51xinwei.com/student/logo.svg
 // @run-at       document-stop
